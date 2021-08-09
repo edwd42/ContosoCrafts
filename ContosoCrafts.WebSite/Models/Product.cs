@@ -14,7 +14,7 @@ namespace ContosoCrafts.WebSite.Models
         public string Id { get; set; }
         public string Maker { get; set; }
 
-        [JsonPropertyName("img ")]
+        [JsonPropertyName("img")]
         public string Image { get; set; }
         public string URL { get; set; }
         public string Title { get; set; }
