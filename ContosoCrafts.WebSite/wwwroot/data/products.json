@@ -7,7 +7,8 @@
     "Title": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
     "Description": "This project is a good learning project to get comfortable with soldering and programming an Arduino.",
     "Ratings": [
-      5
+      5,
+      4
     ]
   },
   {
@@ -17,7 +18,9 @@
     "URL": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
     "Title": "A beautiful switch-on book light",
     "Description": "Use craft items you have around the house, plus two LEDs and a LilyPad battery holder, to create a useful book light for reading in the dark.",
-    "Ratings": null
+    "Ratings": [
+      4
+    ]
   },
   {
     "Id": "jenlooper-lightshow",
@@ -136,6 +139,4 @@
     "Description": "Used up the Diskette fabric today to make 2 of these crops.",
     "Ratings": null
   }
-]make 2 of these crops."
-    }
 ]
